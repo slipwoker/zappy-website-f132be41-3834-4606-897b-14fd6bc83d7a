@@ -1,5 +1,5 @@
 # Clean URL redirects for Render static hosting
-# Generated: 2026-01-19T14:11:21.556Z
+# Generated: 2026-01-19T14:35:54.498Z
 # These rewrite rules show clean URLs to users while serving .html files
 
 /prayer-times  /prayer-times.html  200!
