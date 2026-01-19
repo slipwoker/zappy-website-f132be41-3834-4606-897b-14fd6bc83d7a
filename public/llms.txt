@@ -1,55 +1,65 @@
-# Business — Generative Engine Optimization Map
+# בית הכנסת רמת גבעת זאב — Generative Engine Optimization Map
+
+> A דת ורוחניות business.
 
 ---
 
 ## Pages
 
 ### דף הבית
-https://example.com
+https://ramat-givat-zeev-synagogue.zappy5.app
 הצטרפו לקהילת בית הכנסת רמת גבעת זאב. זמני תפילות, שיעורי תורה ואירועי קהילה במקום חם ומזמין.
 
 ### זמני תפילות
-https://example.com/prayer-times
+https://ramat-givat-zeev-synagogue.zappy5.app/prayer-times
 זמני תפילות מעודכנים לשחרית, מנחה וערבית בבית הכנסת רמת גבעת זאב. מניינים קבועים לכל ימות השבוע.
 
 ### שיעורים
-https://example.com/classes
+https://ramat-givat-zeev-synagogue.zappy5.app/classes
 שיעורי תורה, גמרא והלכה בבית הכנסת רמת גבעת זאב. למידה עמוקה ומעניינת לכל הרמות עם רבנים מנוסים.
 
 ### אירועים
-https://example.com/events
+https://ramat-givat-zeev-synagogue.zappy5.app/events
 אירועים קהילתיים, חגיגות שבת וחג, וסעודות משותפות בבית הכנסת רמת גבעת זאב. הצטרפו לקהילה התוססת שלנו.
 
 ### אודות
-https://example.com/about
+https://ramat-givat-zeev-synagogue.zappy5.app/about
 למדו על בית הכנסת רמת גבעת זאב — היסטוריה, ערכים, וחזון של קהילה חמה ומזמינה המשרתת את תושבי האזור.
 
 ### צור קשר
-https://example.com/contact
+https://ramat-givat-zeev-synagogue.zappy5.app/contact
 צרו קשר עם בית הכנסת רמת גבעת זאב. מלאו את הטופס או התקשרו אלינו לשאלות, הצעות ובקשות.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://ramat-givat-zeev-synagogue.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://ramat-givat-zeev-synagogue.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://ramat-givat-zeev-synagogue.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About בית הכנסת רמת גבעת זאב
+בית הכנסת רמת גבעת זאב is a business in the דת ורוחניות industry.
+
+## Target Audience
+קהילת המתפללים
+
+## Industry
+דת ורוחניות
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://ramat-givat-zeev-synagogue.zappy5.app/sitemap.xml
+- **Robots.txt**: https://ramat-givat-zeev-synagogue.zappy5.app/robots.txt
